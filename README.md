@@ -21,7 +21,7 @@ Metadata is scattered but I've copied the most important files here.
 
 ## Extra Info
 
-For Aqueduct Food, only the MIROC (MIRO) scenario has been used. This is because the scenarios of Aqueduct and IMPACT were different and this scneario is shared between the two tools. 
+For Aqueduct Food, only the MIROC (MIRO) scenario has been used. This is because the scenarios of Aqueduct and IMPACT were different and this scenario is shared between the two tools. 
 
 
 
