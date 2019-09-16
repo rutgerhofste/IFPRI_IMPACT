@@ -8,7 +8,7 @@ The data is copied from [Google Drive](https://drive.google.com/drive/folders/0B
 
 Metadata is scattered but I've copied the most important files here. 
 
-[impactparameter](https://github.com/rutgerhofste/IFPRI_IMPACT/blob/master/parameters.md)  
+[impactparameter](https://github.com/rutgerhofste/IFPRI_IMPACT/blob/master/metadata/parameters.md)  
 [distinct values](https://github.com/rutgerhofste/IFPRI_IMPACT/blob/master/metadata/distinct_values_v01.csv)
 
 
