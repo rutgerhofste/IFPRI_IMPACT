@@ -4,7 +4,12 @@ Ingest IFPRI IMPACT to BigQuery for easy QA of Aqueduct Food
 ## Source:
 
 
-The data is copied from [Google Drive](https://drive.google.com/drive/folders/0Bz-cWtOO_ixuaThFaTBZQUJUdU0?usp=sharing)
+The data is copied from [Google Drive](https://drive.google.com/drive/folders/0Bz-cWtOO_ixuaThFaTBZQUJUdU0?usp=sharing). We used the data from folder: 20161118_IMPACT data
+
+Metadata is scattered but I've copied the most important files here. 
+
+[impactparameter](https://github.com/rutgerhofste/IFPRI_IMPACT/blob/master/parameters.md)
+
 
 
 
