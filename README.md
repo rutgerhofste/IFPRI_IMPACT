@@ -3,9 +3,11 @@ Ingest IFPRI IMPACT to BigQuery for easy QA of Aqueduct Food
 
 ## Source:
 
-The data was shared as URL in an email Cenacchi, Nicola (IFPRI) <N.Cenacchi@cgiar.org>. 
 
-https://www.dropbox.com/sh/ezpnhn1773rscfk/AACVLyAKAPFY_eaAyI2JQRfGa?dl=0
+The data is copied from [Google Drive](https://drive.google.com/drive/folders/0Bz-cWtOO_ixuaThFaTBZQUJUdU0?usp=sharing)
+
+
+
 
 ## Data downloaded to 
 `s3://wri-projects/Aqueduct30/rawData/IFRPI/Y2019M09D16_RH_IFPRI_IMPACT_2015_Raw_V01`
