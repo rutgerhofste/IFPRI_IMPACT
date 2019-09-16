@@ -15,7 +15,7 @@ Metadata is scattered but I've copied the most important files here.
 
 
 
-## Data downloaded to 
+## Data input files:  
 `s3://wri-projects/Aqueduct30/rawData/IFRPI/Y2019M09D16_RH_IFPRI_IMPACT_2015_Raw_V01`
 
 
