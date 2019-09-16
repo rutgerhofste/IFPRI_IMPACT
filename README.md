@@ -177,3 +177,6 @@ For Aqueduct Food, only the MIROC (MIRO) scenario has been used. This is because
 |                        |           |           | Zambia               |                |      |
 |                        |           |           | Zimbabwe             |                |      |
 
+Metadata PDF downloaded from:  
+http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/129825/filename/130036.pdf
+
