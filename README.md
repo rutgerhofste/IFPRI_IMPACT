@@ -21,9 +21,8 @@ Thanks
 Nicola  
 
 
-### NO LONGER VALID :
-The data is copied from [Google Drive](https://drive.google.com/drive/folders/0Bz-cWtOO_ixuaThFaTBZQUJUdU0?usp=sharing). We used the data from folder: 20161118_IMPACT data
-
+_NO LONGER VALID :_
+_The data is copied from [Google Drive](https://drive.google.com/drive/folders/0Bz-cWtOO_ixuaThFaTBZQUJUdU0?usp=sharing). We used the data from folder: 20161118_IMPACT data_
 
 Metadata is scattered but I've copied the most important files here. 
 
